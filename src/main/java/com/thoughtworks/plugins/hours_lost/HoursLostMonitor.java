@@ -49,7 +49,7 @@ public class HoursLostMonitor extends Builder {
         wasPreviousFail=false;
         //class build list
         String builds = (Hudson.getInstance().getRootPath()+ "/jobs/" + getDescriptor().getJobName() + "/builds/");
-        TreeSet<File> buildList =SearchForBuilds(builds, listener);
+        TreeSet<File> buildList = new BuildList(builds).getSortedSet();
         for( File file : buildList){
           incrementLostTime(file, listener);
         }
@@ -58,39 +58,7 @@ public class HoursLostMonitor extends Builder {
         return true;
     }
 
-    private TreeSet<File> SearchForBuilds(String builds, BuildListener listener) {
-        LinkedList<File> buildXmls = new LinkedList<File>();
-        File directory = new File (builds);
-        File[] fList = directory.listFiles();
-        Date d = new Date();
-        String todaysDate = new SimpleDateFormat("yyyy-MM-dd").format(d);
 
-        for (File file : fList) {
-
-           if (file.getAbsolutePath().contains(todaysDate) ) {
-               File[] found = file.listFiles();
-               for (int i =0; i < found.length; i++){
-                if (found[i].getName().contains("build.xml"))
-                   buildXmls.add(found[i]);
-               }
-           } else if (file.isDirectory()) {
-               buildXmls.addAll(SearchForBuilds(file.getPath(), listener));
-           }
-        }
-        TreeSet<File> files;
-        files = new TreeSet<File>(new Comparator<File>(){
-            @Override
-            public int compare(File a, File b){
-                String aParentName = a.getParentFile().getName();
-                String bParentName = b.getParentFile().getName();
-                return aParentName.compareTo(bParentName);
-            }
-        });
-        for(File xml : buildXmls){
-            files.add(xml);
-        }
-        return files;
-    }
    //class xml parser
    private void incrementLostTime(File buildXml, BuildListener listener){
        DocumentBuilderFactory dbf = DocumentBuilderFactory.newInstance();
