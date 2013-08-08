@@ -26,7 +26,7 @@ public class BuildList {
     }
 
     public TreeSet<File> getSortedSet(){
-
+        buildsSortedByDate = SearchForBuilds(buildPath);
         return buildsSortedByDate;
     }
 
