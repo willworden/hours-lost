@@ -29,7 +29,7 @@ public class HoursLostMonitor extends Builder {
 
     private final String name;
     private int timeLost =0;
-    private String valueOfTimeLost= null;
+    //private String valueOfTimeLost= null;
     private boolean wasPreviousFail;
     private long dateSinceFailing;
 
@@ -53,24 +53,8 @@ public class HoursLostMonitor extends Builder {
         for( File file : buildList){
           incrementLostTime(file, listener);
         }
-
-        //class elapsed time
-        long seconds, minutes, hours;
-
-        seconds = timeLost / 1000;
-
-        minutes = seconds / 60;
-
-        seconds = seconds % 60;
-
-        hours = minutes / 60;
-
-        minutes = minutes % 60;
-
-
-        valueOfTimeLost=   String.format("%02d:%02d:%02d",
-        hours, minutes, seconds);
-        listener.getLogger().println("time lost: " + valueOfTimeLost);
+        ElapsedTime interval = new ElapsedTime(timeLost);
+        listener.getLogger().println("time lost: " + interval.getElapsedTime());
         return true;
     }
 

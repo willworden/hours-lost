@@ -8,11 +8,12 @@
     <ignored path="hours-lost.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/fragment.java" changelist="a5ba2a44-6297-49ac-9fc9-525edbc33efb" time="1375829127771" ignored="false" />
-    <file path="/HoursLostMonitor.java" changelist="a5ba2a44-6297-49ac-9fc9-525edbc33efb" time="1375928007339" ignored="false" />
+    <file path="/HoursLostMonitor.java" changelist="ad9d78fc-6327-4492-a73e-a47fef0214ed" time="1375930654925" ignored="false" />
     <file path="/global.jelly" changelist="a5ba2a44-6297-49ac-9fc9-525edbc33efb" time="1375816390659" ignored="false" />
     <file path="/Dummy.txt" changelist="ad9d78fc-6327-4492-a73e-a47fef0214ed" time="1375929894658" ignored="false" />
     <file path="$PROJECT_DIR$/work/hudson.model.UpdateCenter.xml" changelist="a5ba2a44-6297-49ac-9fc9-525edbc33efb" time="1375922158389" ignored="false" />
     <file path="$PROJECT_DIR$/work/nodeMonitors.xml" changelist="a5ba2a44-6297-49ac-9fc9-525edbc33efb" time="1375922158389" ignored="false" />
+    <file path="/ElapsedTime.java" changelist="ad9d78fc-6327-4492-a73e-a47fef0214ed" time="1375930572792" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,6 +73,40 @@
   <component name="FavoritesManager">
     <favorites_list name="hours-lost" />
   </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="HoursLostMonitor.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/thoughtworks/plugins/hours_lost/HoursLostMonitor.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="55" column="57" selection-start="1783" selection-end="1783" vertical-scroll-proportion="0.6593407">
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#2027#2033#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="HistoricalBuildFilesCollection.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/thoughtworks/plugins/hours_lost/HistoricalBuildFilesCollection.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="9" column="43" selection-start="249" selection-end="249" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ElapsedTime.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/thoughtworks/plugins/hours_lost/ElapsedTime.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="29" column="36" selection-start="633" selection-end="633" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
   <component name="FindManager">
     <FindUsagesManager>
       <setting name="OPEN_NEW_TAB" value="false" />
@@ -92,6 +127,7 @@
         <option value="$PROJECT_DIR$/src/main/java/org/jenkinsci/plugins/hours_lost/HelloWorldBuilder.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/resources/org/jenkinsci/plugins/hours_lost/HoursLostBuilder/global.jelly" />
+        <option value="$PROJECT_DIR$/src/main/java/com/thoughtworks/plugins/hours_lost/ElapsedTime.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/thoughtworks/plugins/hours_lost/HoursLostMonitor.java" />
       </list>
     </option>
@@ -248,6 +284,54 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="hours-lost" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="hours-lost" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="hours-lost" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="hours-lost" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="hours_lost" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -476,20 +560,20 @@
     <frame x="20" y="22" width="1420" height="860" extended-state="0" />
     <editor active="false" />
     <layout>
-      <window_info id="Changes" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32972974" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32972974" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39869282" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32972974" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32972974" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32837838" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24624194" sideWeight="0.671159" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32896653" sideWeight="0.67027026" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32896653" sideWeight="0.67027026" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32972974" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -565,20 +649,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/main.iml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="0" selection-start="215" selection-end="215" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/jenkins-ci/main/jenkins-core/1.509.1/jenkins-core-1.509.1-sources.jar!/hudson/model/Descriptor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="781" column="29" selection-start="30771" selection-end="30771" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
@@ -657,19 +727,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/thoughtworks/plugins/hours_lost/FileInputStream.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/thoughtworks/plugins/hours_lost/ElapsedTime.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="0" selection-start="46" selection-end="46" vertical-scroll-proportion="0.07594936">
+        <state line="29" column="36" selection-start="633" selection-end="633" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/thoughtworks/plugins/hours_lost/HistoricalBuildFilesCollection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="43" selection-start="249" selection-end="249" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/thoughtworks/plugins/hours_lost/HoursLostMonitor.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="165" column="21" selection-start="5557" selection-end="5557" vertical-scroll-proportion="0.43296704">
+        <state line="55" column="57" selection-start="1783" selection-end="1783" vertical-scroll-proportion="0.6593407">
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#2286#2292#0" expanded="true" />
+            <element signature="e#2027#2033#0" expanded="true" />
           </folding>
         </state>
       </provider>
