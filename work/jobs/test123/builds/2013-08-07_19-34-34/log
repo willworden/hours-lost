@@ -1,0 +1,257 @@
+Started by user [8mha:AAAAlh+LCAAAAAAAAABb85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzOEgYu/dLi1CL9vNKcHACFIKlWvwAAAA==[0manonymous
+Building in workspace /Users/Thoughtworker/Downloads/hours-lost/work/jobs/test123/workspace
+success found
+THERE WAS A FAILURE BEFORE
+Bad since: 0:Wed Dec 31 18:00:00 CST 1969
+Recovered at: 1375891685659:Wed Aug 07 11:08:05 CDT 2013
+Timelost: 0
+Diff: 1375891685659
+Timelost: 1502150939
+success found
+FAILURE DETECTED
+dateSinceFailing: 1375891706880
+FAILURE DETECTED
+success found
+THERE WAS A FAILURE BEFORE
+Bad since: 1375891706880:Wed Aug 07 11:08:26 CDT 2013
+Recovered at: 1375891720623:Wed Aug 07 11:08:40 CDT 2013
+Timelost: 1502150939
+Diff: 13743
+Timelost: 1502164682
+success found
+success found
+success found
+success found
+success found
+success found
+success found
+success found
+success found
+success found
+success found
+success found
+success found
+success found
+success found
+success found
+FAILURE DETECTED
+dateSinceFailing: 1375901199968
+FAILURE DETECTED
+FAILURE DETECTED
+FAILURE DETECTED
+FAILURE DETECTED
+FAILURE DETECTED
+success found
+THERE WAS A FAILURE BEFORE
+Bad since: 1375901199968:Wed Aug 07 13:46:39 CDT 2013
+Recovered at: 1375901480648:Wed Aug 07 13:51:20 CDT 2013
+Timelost: 1502164682
+Diff: 280680
+Timelost: 1502445362
+success found
+success found
+success found
+success found
+FAILURE DETECTED
+dateSinceFailing: 1375905200454
+FAILURE DETECTED
+FAILURE DETECTED
+FAILURE DETECTED
+success found
+THERE WAS A FAILURE BEFORE
+Bad since: 1375905200454:Wed Aug 07 14:53:20 CDT 2013
+Recovered at: 1375906327631:Wed Aug 07 15:12:07 CDT 2013
+Timelost: 1502445362
+Diff: 1127177
+Timelost: 1503572539
+success found
+success found
+success found
+success found
+FAILURE DETECTED
+dateSinceFailing: 1375908205604
+FAILURE DETECTED
+success found
+THERE WAS A FAILURE BEFORE
+Bad since: 1375908205604:Wed Aug 07 15:43:25 CDT 2013
+Recovered at: 1375908237082:Wed Aug 07 15:43:57 CDT 2013
+Timelost: 1503572539
+Diff: 31478
+Timelost: 1503604017
+success found
+success found
+success found
+success found
+success found
+success found
+FAILURE DETECTED
+dateSinceFailing: 1375909154344
+success found
+THERE WAS A FAILURE BEFORE
+Bad since: 1375909154344:Wed Aug 07 15:59:14 CDT 2013
+Recovered at: 1375909166314:Wed Aug 07 15:59:26 CDT 2013
+Timelost: 1503604017
+Diff: 11970
+Timelost: 1503615987
+success found
+success found
+FAILURE DETECTED
+dateSinceFailing: 1375910831281
+success found
+THERE WAS A FAILURE BEFORE
+Bad since: 1375910831281:Wed Aug 07 16:27:11 CDT 2013
+Recovered at: 1375910843365:Wed Aug 07 16:27:23 CDT 2013
+Timelost: 1503615987
+Diff: 12084
+Timelost: 1503628071
+success found
+FAILURE DETECTED
+dateSinceFailing: 1375912150970
+FAILURE DETECTED
+success found
+THERE WAS A FAILURE BEFORE
+Bad since: 1375912150970:Wed Aug 07 16:49:10 CDT 2013
+Recovered at: 1375912468192:Wed Aug 07 16:54:28 CDT 2013
+Timelost: 1503628071
+Diff: 317222
+Timelost: 1503945293
+success found
+success found
+FAILURE DETECTED
+dateSinceFailing: 1375912606785
+success found
+THERE WAS A FAILURE BEFORE
+Bad since: 1375912606785:Wed Aug 07 16:56:46 CDT 2013
+Recovered at: 1375912615464:Wed Aug 07 16:56:55 CDT 2013
+Timelost: 1503945293
+Diff: 8679
+Timelost: 1503953972
+success found
+success found
+success found
+success found
+success found
+success found
+FAILURE DETECTED
+dateSinceFailing: 1375912756806
+FAILURE DETECTED
+FAILURE DETECTED
+success found
+THERE WAS A FAILURE BEFORE
+Bad since: 1375912756806:Wed Aug 07 16:59:16 CDT 2013
+Recovered at: 1375912784449:Wed Aug 07 16:59:44 CDT 2013
+Timelost: 1503953972
+Diff: 27643
+Timelost: 1503981615
+success found
+success found
+success found
+FAILURE DETECTED
+dateSinceFailing: 1375912995004
+success found
+THERE WAS A FAILURE BEFORE
+Bad since: 1375912995004:Wed Aug 07 17:03:15 CDT 2013
+Recovered at: 1375913005338:Wed Aug 07 17:03:25 CDT 2013
+Timelost: 1503981615
+Diff: 10334
+Timelost: 1503991949
+success found
+success found
+success found
+FAILURE DETECTED
+dateSinceFailing: 1375913464171
+FAILURE DETECTED
+FAILURE DETECTED
+success found
+THERE WAS A FAILURE BEFORE
+Bad since: 1375913464171:Wed Aug 07 17:11:04 CDT 2013
+Recovered at: 1375913554010:Wed Aug 07 17:12:34 CDT 2013
+Timelost: 1503991949
+Diff: 89839
+Timelost: 1504081788
+success found
+success found
+success found
+FAILURE DETECTED
+dateSinceFailing: 1375914689354
+FAILURE DETECTED
+FAILURE DETECTED
+FAILURE DETECTED
+success found
+THERE WAS A FAILURE BEFORE
+Bad since: 1375914689354:Wed Aug 07 17:31:29 CDT 2013
+Recovered at: 1375914707408:Wed Aug 07 17:31:47 CDT 2013
+Timelost: 1504081788
+Diff: 18054
+Timelost: 1504099842
+success found
+success found
+FAILURE DETECTED
+dateSinceFailing: 1375915003766
+success found
+THERE WAS A FAILURE BEFORE
+Bad since: 1375915003766:Wed Aug 07 17:36:43 CDT 2013
+Recovered at: 1375915010112:Wed Aug 07 17:36:50 CDT 2013
+Timelost: 1504099842
+Diff: 6346
+Timelost: 1504106188
+success found
+success found
+success found
+success found
+FAILURE DETECTED
+dateSinceFailing: 1375915396892
+FAILURE DETECTED
+success found
+THERE WAS A FAILURE BEFORE
+Bad since: 1375915396892:Wed Aug 07 17:43:16 CDT 2013
+Recovered at: 1375915404410:Wed Aug 07 17:43:24 CDT 2013
+Timelost: 1504106188
+Diff: 7518
+Timelost: 1504113706
+success found
+success found
+FAILURE DETECTED
+dateSinceFailing: 1375915644819
+success found
+THERE WAS A FAILURE BEFORE
+Bad since: 1375915644819:Wed Aug 07 17:47:24 CDT 2013
+Recovered at: 1375915655022:Wed Aug 07 17:47:35 CDT 2013
+Timelost: 1504113706
+Diff: 10203
+Timelost: 1504123909
+success found
+success found
+FAILURE DETECTED
+dateSinceFailing: 1375918465488
+success found
+THERE WAS A FAILURE BEFORE
+Bad since: 1375918465488:Wed Aug 07 18:34:25 CDT 2013
+Recovered at: 1375918472518:Wed Aug 07 18:34:32 CDT 2013
+Timelost: 1504123909
+Diff: 7030
+Timelost: 1504130939
+success found
+FAILURE DETECTED
+dateSinceFailing: 1375919018873
+success found
+THERE WAS A FAILURE BEFORE
+Bad since: 1375919018873:Wed Aug 07 18:43:38 CDT 2013
+Recovered at: 1375919025532:Wed Aug 07 18:43:45 CDT 2013
+Timelost: 1504130939
+Diff: 6659
+Timelost: 1504137598
+success found
+success found
+FAILURE DETECTED
+dateSinceFailing: 1375922062820
+FAILURE DETECTED
+success found
+THERE WAS A FAILURE BEFORE
+Bad since: 1375922062820:Wed Aug 07 19:34:22 CDT 2013
+Recovered at: 1375922073445:Wed Aug 07 19:34:33 CDT 2013
+Timelost: 1504137598
+Diff: 10625
+Timelost: 1504148223
+time lost417:49:00h:417m:49
+Finished: SUCCESS

@@ -1,0 +1,26 @@
+Started by user [8mha:AAAAlh+LCAAAAAAAAABb85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzOEgYu/dLi1CL9vNKcHACFIKlWvwAAAA==[0manonymous
+Building in workspace /Users/Thoughtworker/Downloads/hours-lost/work/jobs/test123/workspace
+/Users/Thoughtworker/Downloads/hours-lost/work/jobs/test123/builds/2013-08-07_11-08-05/build.xml
+success found
+ERRORjava.lang.NumberFormatException: For input string: "1375891685659"
+/Users/Thoughtworker/Downloads/hours-lost/work/jobs/test123/builds/2013-08-07_11-08-10/build.xml
+success found
+ERRORjava.lang.NumberFormatException: For input string: "1375891690242"
+/Users/Thoughtworker/Downloads/hours-lost/work/jobs/test123/builds/2013-08-07_11-08-26/build.xml
+red detected
+/Users/Thoughtworker/Downloads/hours-lost/work/jobs/test123/builds/2013-08-07_11-08-30/build.xml
+red detected
+/Users/Thoughtworker/Downloads/hours-lost/work/jobs/test123/builds/2013-08-07_11-08-40/build.xml
+success found
+ERRORjava.lang.NumberFormatException: For input string: "1375891720623"
+/Users/Thoughtworker/Downloads/hours-lost/work/jobs/test123/builds/2013-08-07_11-08-45/build.xml
+success found
+ERRORjava.lang.NumberFormatException: For input string: "1375891725576"
+/Users/Thoughtworker/Downloads/hours-lost/work/jobs/test123/builds/2013-08-07_11-08-49/build.xml
+success found
+ERRORjava.lang.NumberFormatException: For input string: "1375891729349"
+/Users/Thoughtworker/Downloads/hours-lost/work/jobs/test123/builds/2013-08-07_11-24-19/build.xml
+success found
+ERRORjava.lang.NumberFormatException: For input string: "1375892659967"
+0
+Finished: SUCCESS

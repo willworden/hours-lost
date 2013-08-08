@@ -1,0 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<org.jenkinsci.plugins.hours__lost.HelloWorldBuilder_-DescriptorImpl plugin="hours-lost@1.0-SNAPSHOT">
+  <useFrench>true</useFrench>
+</org.jenkinsci.plugins.hours__lost.HelloWorldBuilder_-DescriptorImpl>

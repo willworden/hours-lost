@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<project>
+  <actions/>
+  <description>FAIL ALL THE THINGS</description>
+  <keepDependencies>false</keepDependencies>
+  <properties/>
+  <scm class="hudson.scm.NullSCM"/>
+  <canRoam>true</canRoam>
+  <disabled>false</disabled>
+  <blockBuildWhenDownstreamBuilding>false</blockBuildWhenDownstreamBuilding>
+  <blockBuildWhenUpstreamBuilding>false</blockBuildWhenUpstreamBuilding>
+  <triggers class="vector"/>
+  <concurrentBuild>false</concurrentBuild>
+  <builders>
+    <com.thoughtworks.plugins.hours__lost.HoursLostMonitor plugin="hours-lost@1.0-SNAPSHOT">
+      <timeLost>0</timeLost>
+      <wasPreviousFail>false</wasPreviousFail>
+      <dateSinceFailing>0</dateSinceFailing>
+    </com.thoughtworks.plugins.hours__lost.HoursLostMonitor>
+    <hudson.tasks.Shell>
+      <command></command>
+    </hudson.tasks.Shell>
+  </builders>
+  <publishers/>
+  <buildWrappers/>
+</project>

@@ -1,0 +1,52 @@
+Started by user [8mha:AAAAlh+LCAAAAAAAAABb85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzOEgYu/dLi1CL9vNKcHACFIKlWvwAAAA==[0manonymous
+Building in workspace /Users/Thoughtworker/Downloads/hours-lost/work/jobs/test123/workspace
+Timelost: 0
+Bad since: 1375891706880
+Recovered at: 1375891720623
+Diff: 13743
+Timelost: 13743
+Bad since: 1375901199968
+Recovered at: 1375901480648
+Diff: 280680
+Timelost: 294423
+Bad since: 1375905200454
+Recovered at: 1375906327631
+Diff: 1127177
+Timelost: 1421600
+Bad since: 1375908205604
+Recovered at: 1375908237082
+Diff: 31478
+Timelost: 1453078
+Bad since: 1375909154344
+Recovered at: 1375909166314
+Diff: 11970
+Timelost: 1465048
+Bad since: 1375910831281
+Recovered at: 1375910843365
+Diff: 12084
+Timelost: 1477132
+Bad since: 1375912150970
+Recovered at: 1375912468192
+Diff: 317222
+Timelost: 1794354
+Bad since: 1375912606785
+Recovered at: 1375912615464
+Diff: 8679
+Timelost: 1803033
+Bad since: 1375912756806
+Recovered at: 1375912784449
+Diff: 27643
+Timelost: 1830676
+Bad since: 1375912995004
+Recovered at: 1375913005338
+Diff: 10334
+Timelost: 1841010
+Bad since: 1375913464171
+Recovered at: 1375913554010
+Diff: 89839
+Timelost: 1930849
+time lost00:32:00h:0m:32
+[workspace] $ /bin/sh -xe /var/folders/3p/p2c_7fv14tb21zgsqnp0c8h80000gp/T/hudson8732051189659010559.sh
+/var/folders/3p/p2c_7fv14tb21zgsqnp0c8h80000gp/T/hudson8732051189659010559.sh: line 2: syntax error near unexpected token `<'
+Build step 'Execute shell' marked build as failure
+Finished: FAILURE

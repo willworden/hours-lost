@@ -1,0 +1,37 @@
+Started by user [8mha:AAAAlh+LCAAAAAAAAABb85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzOEgYu/dLi1CL9vNKcHACFIKlWvwAAAA==[0manonymous
+Building in workspace /Users/Thoughtworker/Downloads/hours-lost/work/jobs/test123/workspace
+Bad since: Wed Aug 07 11:08:26 CDT 2013
+Recovered at: Wed Aug 07 11:08:40 CDT 2013
+Diff: 13743
+Timelost: 13743
+Bad since: Wed Aug 07 13:46:39 CDT 2013
+Recovered at: Wed Aug 07 13:51:20 CDT 2013
+Diff: 280680
+Timelost: 294423
+Bad since: Wed Aug 07 14:53:20 CDT 2013
+Recovered at: Wed Aug 07 15:12:07 CDT 2013
+Diff: 1127177
+Timelost: 1421600
+Bad since: Wed Aug 07 15:43:25 CDT 2013
+Recovered at: Wed Aug 07 15:43:57 CDT 2013
+Diff: 31478
+Timelost: 1453078
+Bad since: Wed Aug 07 15:59:14 CDT 2013
+Recovered at: Wed Aug 07 15:59:26 CDT 2013
+Diff: 11970
+Timelost: 1465048
+Bad since: Wed Aug 07 16:27:11 CDT 2013
+Recovered at: Wed Aug 07 16:27:23 CDT 2013
+Diff: 12084
+Timelost: 1477132
+Bad since: Wed Aug 07 16:49:10 CDT 2013
+Recovered at: Wed Aug 07 16:54:28 CDT 2013
+Diff: 317222
+Timelost: 1794354
+Bad since: Wed Aug 07 16:56:46 CDT 2013
+Recovered at: Wed Aug 07 16:56:55 CDT 2013
+Diff: 8679
+Timelost: 1803033
+00:30:03
+[workspace] $ /bin/sh -xe /var/folders/3p/p2c_7fv14tb21zgsqnp0c8h80000gp/T/hudson4525157065614250110.sh
+Finished: SUCCESS
